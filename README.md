@@ -1,2 +1,0 @@
-# woowaRedux
-Created with CodeSandbox
